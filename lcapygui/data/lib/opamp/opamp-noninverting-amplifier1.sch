@@ -12,4 +12,4 @@ R2 2 7; right=2.5
 W5 7 1; up=1.25
 W4 6 0; down=0.25, scale=0.25, sground
 W6 12 0; down=0.75, scale=0.75, sground
-; draw_nodes=connections, label_nodes=all, style=american, voltage_dir=RP, line width=1.1, scale=0.50, label_style=value
+; draw_nodes=connections, label_nodes=none, style=american, voltage_dir=RP, label_style=value
